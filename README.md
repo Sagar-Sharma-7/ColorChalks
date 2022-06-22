@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img   src="./src/img/Color.png" alt="ColorChalks">
+	<img width="300"  src="./src/img/Color.png" alt="ColorChalks">
 </h1>
 
 ```
