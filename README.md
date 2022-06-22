@@ -10,3 +10,9 @@
 
 ---
 
+<br>
+
+## Installation
+```sh
+$ pip install ColorChalks
+```
