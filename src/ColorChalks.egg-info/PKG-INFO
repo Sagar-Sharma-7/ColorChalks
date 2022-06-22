@@ -1,11 +1,11 @@
 Metadata-Version: 2.1
 Name: ColorChalks
-Version: 1.0.0
+Version: 1.0.1
 Summary: You can use different foreground and background colors in terminal using tcolor module.
-Home-page: https://github.com/Sagar-Sharma-7/T_colors
+Home-page: https://github.com/Sagar-Sharma-7/ColorChalks
 Author: Sagar-Sharma-7
 Author-email: 6969sagarsharma@gmail.com
-Project-URL: Bug Tracker, https://github.com/Sagar-Sharma-7/T_colors/issues
+Project-URL: Bug Tracker, https://github.com/Sagar-Sharma-7/ColorChalks/issues
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
