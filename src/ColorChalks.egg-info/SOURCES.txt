@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/ColorChalks/ColorChalks.py
+src/ColorChalks/__init__.py
+src/ColorChalks.egg-info/PKG-INFO
+src/ColorChalks.egg-info/SOURCES.txt
+src/ColorChalks.egg-info/dependency_links.txt
+src/ColorChalks.egg-info/top_level.txt
