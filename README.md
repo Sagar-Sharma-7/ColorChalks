@@ -1,2 +1,3 @@
-# T_colors
-Work in progress...
+```
+$ pip install ColorChalks
+```
