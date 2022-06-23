@@ -14,5 +14,14 @@
 
 ## Installation
 ```sh
-$ pip install ColorChalks
+pip install ColorChalks
 ```
+
+## Usage       
+```python 
+from ColorChalks import ColorChalks
+
+# Print "Hello World!" in yellow color.
+print(ColorChalks.FCOLORS.Yellow + "Hello World!")
+```
+**Note:** Version 1.0.1 comes only with foreground colors (FCOLORS)
