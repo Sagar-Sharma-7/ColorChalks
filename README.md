@@ -7,7 +7,7 @@
 [![PyPI version](https://badge.fury.io/py/ColorChalks.svg)](https://badge.fury.io/py/ColorChalks)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-
+[![Downloads](https://static.pepy.tech/personalized-badge/colorchalks?period=total&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/colorchalks)
 ---
 
 <br>
