@@ -25,3 +25,23 @@ from ColorChalks import ColorChalks
 print(ColorChalks.FCOLORS.Yellow + "Hello World!")
 ```
 **Note:** Version 1.0.2 comes only with foreground colors (FCOLORS)
+
+-----
+
+## Colors 
+- `Black`
+- `Red`
+- `Green`
+- `Yellow`
+- `Blue`
+- `Magenta`
+- `Cyan`
+- `White`
+- `BrightBlack`
+- `BrightRed`
+- `BrightGreen`
+- `BrightYellow`
+- `BrightBlue`
+- `BrightMagenta`
+- `BrightCyan`
+- `BrightWhite`
