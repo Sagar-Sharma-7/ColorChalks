@@ -1,3 +1,3 @@
 from ColorChalks import ColorChalks
-print(ColorChalks.colors.Red + "Hello")
-print(ColorChalks.colors.Blue + "Hello")
+print(ColorChalks.FCOLORS.Red + "Hello")
+print(ColorChalks.FCOLORS.Blue + "Hello")
