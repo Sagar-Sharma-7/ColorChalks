@@ -45,3 +45,8 @@ print(ColorChalks.FCOLORS.Yellow + "Hello World!")
 - `BrightMagenta`
 - `BrightCyan`
 - `BrightWhite`
+
+**NOTE:** Use the following command to reset to default color. Prefer to use this command before jumping from Bright colors to normal colors.
+```python
+print(ColorChalks.FCOLORS.Reset) 
+```
