@@ -27,10 +27,10 @@ print(ColorChalks.FCOLORS.Yellow + "Hello World!")
 # Print "Hello World!" with green background color. 
 # but first you have to reset
 
-print(COLORS.Reset + BCOLORS.Green + "Hello World!")
+print(ColorChalks.COLORS.Reset + ColorChalks.BCOLORS.Green + "Hello World!")
 
 ## Print "Hello World!" with green background color with blue foreground color
-print(COLORS.Reset + BCOLORS.Green + FCOLORS.Blue + "Hello World!")
+print(ColorChalks.COLORS.Reset + ColorChalks.BCOLORS.Green + ColorChalks.FCOLORS.Blue + "Hello World!")
 ```
 **Note:** Version 1.0.3 comes with foreground colors (FCOLORS) and background colors (BCOLORS)
 
