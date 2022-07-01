@@ -1,5 +1,4 @@
 class FCOLORS: 
-    Reset = '\u001b[0m'
     Black = '\u001b[30m'
     Red = '\u001b[31m'
     Green = '\u001b[32m'
@@ -17,8 +16,11 @@ class FCOLORS:
     BrightCyan = '\u001b[36;1m'
     BrightWhite = '\u001b[37;1m'
 
-class BCOLORS:
+class COLORS: 
     Reset = '\u001b[0m'
+    
+
+class BCOLORS:
     Black = '\u001b[40m'
     Red = '\u001b[41m'
     Green = '\u001b[42m'

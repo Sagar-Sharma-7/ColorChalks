@@ -27,7 +27,10 @@ print(ColorChalks.FCOLORS.Yellow + "Hello World!")
 # Print "Hello World!" with green background color. 
 # but first you have to reset
 
-print(FCOLORS.Reset + BCOLORS.Green + "Hello World!")
+print(COLORS.Reset + BCOLORS.Green + "Hello World!")
+
+## Print "Hello World!" with green background color with blue foreground color
+print(COLORS.Reset + BCOLORS.Green + FCOLORS.Blue + "Hello World!")
 ```
 **Note:** Version 1.0.3 comes with foreground colors (FCOLORS) and background colors (BCOLORS)
 
@@ -53,5 +56,6 @@ print(FCOLORS.Reset + BCOLORS.Green + "Hello World!")
 
 **NOTE:** Use the following command to reset to default color. Prefer to use this command before jumping from Bright colors to normal colors.
 ```python
-print(ColorChalks.FCOLORS.Reset) 
+print(ColorChalks.COLORS.Reset) 
+
 ```
