@@ -57,5 +57,4 @@ print(COLORS.Reset + BCOLORS.Green + FCOLORS.Blue + "Hello World!")
 **NOTE:** Use the following command to reset to default color. Prefer to use this command before jumping from Bright colors to normal colors.
 ```python
 print(ColorChalks.COLORS.Reset) 
-
 ```
