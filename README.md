@@ -23,8 +23,13 @@ from ColorChalks import ColorChalks
 
 # Print "Hello World!" in yellow color.
 print(ColorChalks.FCOLORS.Yellow + "Hello World!")
+
+# Print "Hello World!" with green background color. 
+# but first you have to reset
+
+print(FCOLORS.Reset + BCOLORS.Green + "Hello World!")
 ```
-**Note:** Version 1.0.2 comes only with foreground colors (FCOLORS)
+**Note:** Version 1.0.3 comes with foreground colors (FCOLORS) and background colors (BCOLORS)
 
 -----
 
